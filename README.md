@@ -1,4 +1,2 @@
-"# Clinical-Trials" 
-"# Recommender-System" 
-"# Airport-Ticketing-Environment-SQL" 
-"# Online-Shopping-Platform-SQL" 
+Task involved the development of a relational database to support an online shopping platform. The primary objective was to import and integrate five structured CSV datasets and analyze them using SQL queries. These datasets represented essential e-commerce elements: customers, products, orders, order items, and payments. The task was framed to simulate the data workflow of a real-world retail environment.
+This project emphasized establishing referential integrity and efficient schema design to ensure that the datasets worked seamlessly together. The database was designed in advance with the appropriate data types and constraints and the imported CSV data was matched to these structures. In addition to data import, the task included running complex SQL queries to identify spending patterns, evaluate customer value, and summarize purchasing behavior. This allowed for both technical execution and business insight extraction.
